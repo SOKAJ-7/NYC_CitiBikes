@@ -1,5 +1,5 @@
 # NYC_CitiBikes
-
+A link to the Tableau document on which this report is based can be found at the following link: [link to dashboard](https://public.tableau.com/app/profile/james.kovacs/viz/Citibike-Module14challenge/Story1?publish=yes)
 ## Project Overview
 In this project, we analyzed the ride data of the citibike bike-sharing platform in New York City to determine whether a similar service could be feasible in the city of Des Moines, Iowa. Given the large differences in size and character between the two cities, we needed to create visualizations of the citibike data which could convince investors that this service could work in Des Moines. To do this, we first used Python (pandas) to remove the index from the dataset and export the transformed dataset to be used in Tableau, a business analytics software. Tableau was used to create easily interpretable visualizations based on criteria of the dataset including average trip times, peak hours of usage, user type (subscriber vs customer), as well as user gender. In total, we created 7 visualizations that were merged into a single story-board which compactly displayed each graph for easy presentation to investors. 
 
